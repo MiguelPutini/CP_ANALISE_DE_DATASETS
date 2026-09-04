@@ -4,6 +4,14 @@
 Atividade prática focada na preparação, inspeção e análise de diferentes conjuntos de dados do setor de energia utilizando **Orange Data Mining**, **Python** e **Pandas**.
 
 ---
+#integrantes
+Miguel Putini 571624
+João Scheren Freitas 568883
+João Giadans 571608
+Julia Konishi 569506
+Alexandre Rizzi 569621
+
+---
 
 ## Objetivo da Atividade
 Aplicar procedimentos de pré-processamento, limpeza, filtragem e análise exploratória inicial em datasets reais do setor energético, relacionando cada operação estatística e computacional ao contexto prático de eficiência energética, geração renovável e consumo residencial/industrial.
